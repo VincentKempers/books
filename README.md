@@ -24,6 +24,7 @@ _Books I definitely want to read in 2017_
 - [x] :star: Sun Tzu - Art of War :eyes:
 - [x] Haruki Murakami - Sleep :closed_book: :closed_book: :notebook:
 - [x] Kathy Reichs - Fatal Flighr :closed_book: :knife:
+- [x] Pepijn Lanen - _Naamloos_ :closed_book:
 
 _Books I got recommended to in 2017_
 
@@ -49,7 +50,6 @@ _Books I got recommended to in 2018_
 _Books i definitely want to read in 2019_
 
 - [ ] Viktor E. Vrankel - _Man's search for meaning_ -
-- [ ] Pepijn Lanen - _Naamloos_ :closed_book:
 - [ ] Haruki Murakami - The Colorless Tsukuru Tazaki and his pelgrimyears :closed_book:
 - [ ] John Williams - _Stoner_ :closed_book:
 - [ ] Aldous Huxley - _Brave New World_ :closed_book:
