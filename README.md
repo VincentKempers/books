@@ -55,7 +55,7 @@ _Books i definitely want to read in 2019_
 - [ ] Aldous Huxley - _Brave New World_ :closed_book:
 - [x] Friedrich Nietze - _Beyond Good and Evil_:closed_book:
 - [ ] Joshua Becker - _The More of Less_ :closed_book:
-- [ ] John Parkin - _Fuck it_ :closed_book:
+- [x] John Parkin - _Fuck it_ :closed_book:
 - [ ] John Parkin - _Fuck it 2_ :closed_book:
 - [ ] Jordan B Peterson - _12 Rules For Life_
 - [ ] Kobo Abe - _Woman in the Dunes_
