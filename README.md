@@ -29,13 +29,15 @@ _Books I got recommended to in 2018_
 _Books i definitely want to read in 2019_
 - [ ] John Williams - _Stoner_ :closed_book:
 - [ ] Aldous Huxley - _Brave New World_ :closed_book:
-- [ ] Friedrich Nietze - _Beyond Good and Evil_:closed_book:
+- [x] Friedrich Nietze - _Beyond Good and Evil_:closed_book:
 - [ ] Joshua Becker - _The More of Less_ :closed_book:
 - [ ] John Parkin - _Fuck it_ :closed_book:
 - [ ] John Parkin - _Fuck it 2_ :closed_book:
 - [ ] Jordan B Peterson - _12 Rules For Life_
 - [ ] Kobo Abe - _Woman in the Dunes_
 - [ ] Samu Dazai - _The Setting Sun_
+- [x] Pepijn Lanen - _Naamloos_ :closed_book:
+- [ ] Pepijn Lanen - _Wapen van Sjeng_ :closed_book: :star:
 
 _Books I got recommended to in 2019_
 - [ ] Matt Haig - _The Humans_
