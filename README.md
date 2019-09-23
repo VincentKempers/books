@@ -61,7 +61,7 @@ _Books i definitely want to read in 2019_
 - [ ] Kobo Abe - _Woman in the Dunes_
 - [ ] Samu Dazai - _The Setting Sun_
 - [x] Pepijn Lanen - _Naamloos_ :closed_book:
-- [ ] Pepijn Lanen - _Wapen van Sjeng_ :closed_book: :star:
+- [x] Pepijn Lanen - _Wapen van Sjeng_ :closed_book: :star:
 
 _Books I got recommended to in 2019_
 
