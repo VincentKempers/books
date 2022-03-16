@@ -78,7 +78,7 @@ Goals:
 - [x] Charles Baudelaire - _De bloemen van het kwaad_ :closed_book:
 - [x] Toshi Omagari - _Arcade Game Typography_
 - [x] The Wall Street Journal - _Guide to Information Graphics_
-- [ ] Rick Pastoor - _Grip: Het geheim van het slim werken_
+- [ ] Rick Pastoor - _Grip: Het geheim van het slim werken_ thanks [@benny](https://github.com/bennyvdhoogen)
 - [ ] Rutger Bregman - _gratis geld voor iedereen_
 - [ ] Wouter de jong - _Mind Gym: Sportschool voor je geest_
 - [ ] Haruki Murakami - _De kleurloze tsukuru Tazaki en zijn pelgrimsjaren_
