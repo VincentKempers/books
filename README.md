@@ -61,7 +61,7 @@ _Books i definitely want to read in 2019_
 - [x] Pepijn Lanen - _Naamloos_ :closed_book:
 - [x] Pepijn Lanen - _Wapen van Sjeng_ :closed_book: :star:
 
-_Books I got recommended to in 2019_
+_Books I got recommended in 2019_
 
 - [ ] Matt Haig - _The Humans_
 - [ ] Daniel Defoe - _Robinson Crusoe_
@@ -73,19 +73,36 @@ _Books I got recommended to in 2019_
 
 Let's not talk about this...
 
-## 2022
+## 2022 & 2023
 Goals:
 - [x] Charles Baudelaire - _De bloemen van het kwaad_ :closed_book:
-- [x] Toshi Omagari - _Arcade Game Typography_
+- [x] Toshi Omagari - _Arcade Game Typography_ :closed_book:
 - [x] The Wall Street Journal - _Guide to Information Graphics_
-- [ ] Rick Pastoor - _Grip: Het geheim van het slim werken_ thanks [@benny](https://github.com/bennyvdhoogen)
-- [ ] Rutger Bregman - _gratis geld voor iedereen_
-- [ ] Wouter de jong - _Mind Gym: Sportschool voor je geest_
-- [ ] Haruki Murakami - _De kleurloze tsukuru Tazaki en zijn pelgrimsjaren_
+- [x] Rick Pastoor - _Grip: Het geheim van het slim werken_ thanks [@benny](https://github.com/bennyvdhoogen)
 
-Extra:
-- [ ] Kobo Abe - _Woman in the Dunes_
-- [ ] John Williams - _Stoner_ :closed_book:
+## 2024
+- [ ] Rutger Bregman - _gratis geld voor iedereen_
+- [x] Wouter de jong - _Mind Gym: Sportschool voor je geest_ :closed_book:
+- [x] Haruki Murakami - _De kleurloze tsukuru Tazaki en zijn pelgrimsjaren_ :closed_book:
+- [x] Aldous Huxley - _Brave New World_ :closed_book:
+- [ ] James Baldwin
+  - [ ] _Just above my head_
+  - [x] _Another Country_
+  - [x] _Go Tell It on the Mountain_
+  - [x] _Tell Me How Long the Train's Been Gone_
+  - [x] _Giovanni's Room_
+  - [x] _If Beale Street Could Talk_
+
+## 2025
+### Jan
+- [x] John Williams - _Stoner_ :closed_book: :star:
+- [x] Lao Tzu - _Tao Te Ching_ :closed_book:
+### February
+- [ ] Asako Yuzuki - _Butter_ :closed_book:
+- [ ] Bodhi, Dalai Lama - _In the Buddha's Words_ :eyes:
+- [ ] Pepijn Lanen - _Gezeik_ :closed_book:
+### March
+- [ ] _Harry Potter Philosphers Stone_ :closed_book:
+- [ ] Kobo Abe - _Woman in the Dunes_ :closed_book:
 - [ ] Arthur C. Clarke - _2001: A Space Odyssey_
-- [ ] Aldous Huxley - _Brave New World_ :closed_book:
 - [ ] Frank Herbert - _Dune_
