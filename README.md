@@ -98,11 +98,15 @@ Goals:
 - [x] John Williams - _Stoner_ :closed_book: :star:
 - [x] Lao Tzu - _Tao Te Ching_ :closed_book:
 ### February
-- [ ] Asako Yuzuki - _Butter_ :closed_book:
-- [ ] Bodhi, Dalai Lama - _In the Buddha's Words_ :eyes:
-- [ ] Pepijn Lanen - _Gezeik_ :closed_book:
+- [x] Bodhi, Dalai Lama - _In the Buddha's Words_ :eyes:
+- [x] Pepijn Lanen - _Gezeik_ :closed_book:
+- [x] Days at the Morisaki Bookshop :closed_book:
 ### March
+- [x] Naben Ruthnum - Helpmeet
 - [ ] _Harry Potter Philosphers Stone_ :closed_book:
-- [ ] Kobo Abe - _Woman in the Dunes_ :closed_book:
+- [ ] Asako Yuzuki - Butter :closed_book:
+
+### April
+- [ ] Kobo Abe - _Woman in the Dunes_ :Charlesosed_book:
 - [ ] Arthur C. Clarke - _2001: A Space Odyssey_
 - [ ] Frank Herbert - _Dune_
