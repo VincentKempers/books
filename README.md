@@ -103,10 +103,10 @@ Goals:
 - [x] Days at the Morisaki Bookshop :closed_book:
 ### March
 - [x] Naben Ruthnum - Helpmeet
-- [ ] _Harry Potter Philosphers Stone_ :closed_book:
-- [ ] Asako Yuzuki - Butter :closed_book:
+- [x] _Harry Potter Philosphers Stone_ :closed_book:
+- [-] Asako Yuzuki - Butter :closed_book: DNF
 
 ### April
-- [ ] Kobo Abe - _Woman in the Dunes_ :Charlesosed_book:
-- [ ] Arthur C. Clarke - _2001: A Space Odyssey_
-- [ ] Frank Herbert - _Dune_
+- [x] Kobo Abe - _Woman in the Dunes_ :Charlesosed_book:
+- [x] Arthur C. Clarke - _2001: A Space Odyssey_
+- [x] Frank Herbert - _Dune_
