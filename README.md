@@ -81,7 +81,7 @@ Goals:
 - [x] Rick Pastoor - _Grip: Het geheim van het slim werken_ thanks [@benny](https://github.com/bennyvdhoogen)
 
 ## 2024
-- [ ] Rutger Bregman - _gratis geld voor iedereen_
+- [x] Rutger Bregman - _gratis geld voor iedereen_
 - [x] Wouter de jong - _Mind Gym: Sportschool voor je geest_ :closed_book:
 - [x] Haruki Murakami - _De kleurloze tsukuru Tazaki en zijn pelgrimsjaren_ :closed_book:
 - [x] Aldous Huxley - _Brave New World_ :closed_book:
@@ -94,19 +94,33 @@ Goals:
   - [x] _If Beale Street Could Talk_
 
 ## 2025
-### Jan
 - [x] John Williams - _Stoner_ :closed_book: :star:
 - [x] Lao Tzu - _Tao Te Ching_ :closed_book:
-### February
 - [x] Bodhi, Dalai Lama - _In the Buddha's Words_ :eyes:
 - [x] Pepijn Lanen - _Gezeik_ :closed_book:
 - [x] Days at the Morisaki Bookshop :closed_book:
-### March
 - [x] Naben Ruthnum - Helpmeet
 - [x] _Harry Potter Philosphers Stone_ :closed_book:
 - [-] Asako Yuzuki - Butter :closed_book: DNF
-
-### April
-- [x] Kobo Abe - _Woman in the Dunes_ :Charlesosed_book:
 - [x] Arthur C. Clarke - _2001: A Space Odyssey_
-- [x] Frank Herbert - _Dune_
+- [x] Harry Potter - The Prisoner of Azkhaban
+- [x] Harry Potter and the Goblet of Fire
+- [x] Harry Potter and the Chamber of Secrets
+- [x] Harry potter and the Order of the Phoenix
+- [x] Harry Potter and the Half blood prince
+- [x] A hitchhikers guide to the galaxy collection
+- [x] Pepijn Lanen - Een taxi naar de tering
+- [x] Eric Ozawa, Satoshi Yagisawa - More Days at the Morisaki Bookshop
+- [x] Richard Osman - The Thursday Murder Club
+- [x] Ann Patchett, William Maxwell - So Long, See you tomorrow
+- [x] Uketsu - Strange Pictures
+
+## 2026
+- [x] Blake Crouch - Pines (Wayward Pines series 1)
+- [x] Blake Crouch - Wayward Pines
+- [x] Blake Crouch - Last town
+- [x] Blake Crouch - Dark Matter
+- [x] Uketsu - Strange Houses
+- [x] Uketsu - Strange Buildings
+- [x] J. Sheridan le Fanu - Camilla
+- [x] Richard Osman - The Thursday Murder Club 2
